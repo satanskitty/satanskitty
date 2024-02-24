@@ -1,4 +1,4 @@
-![](https://github.com/satanskitty/satanskitty/blob/main/sleepy.gif?raw=true =256x)
+![](https://github.com/satanskitty/satanskitty/blob/main/sleepy.gif?raw=true)
 
 <!--
 **satanskitty/satanskitty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
